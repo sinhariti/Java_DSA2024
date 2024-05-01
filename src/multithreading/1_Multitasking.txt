@@ -1,0 +1,31 @@
+Multitasking - allows several activites to occur concurrently on the computer
+- Process based Multitasking : allows process/pragrams to run concurrently on the computer
+eg- running mspaint and word together
+- Thread based Multitasking: allowing parts of the same program to run concurrently.
+
+Thread and Process difference :
+1. Two threads share the same address space - switiching between threads is less expensive than b/w processes
+2. cost of communication b/w two threads of the same address space
+
+Why do we need multithreading ?
+- we dont wait to for a particular task to complete to run something that is completely independent of the currently running task.
+- We dont want the CPU to stay idle, it has to continuously run something else until the currently process is being completed
+- We CPU cycle would be wasted if it sits idle - it should rather implememnt some other functions
+
+Thread {
+is an independent sequential path of execution within a program.
+When the main thread stops executing then the program flow stops
+Many threads can run concurrently in a program
+At runtime - threads in program exist in a common memory space and can share both data and code.
+}
+
+Main Thread {
+standalone application is run, a user thread is automatically created to execute the main() method of the application.
+If no user threads are spawned then the program stops to execute after the main() finishes.
+}
+All other threads called child threads are spawned from the main thread
+
+User Thread vs Daemon Thread
+- when there is no user threads are running - then the program stops irrespective of the daemon threads still running
+** main is also a user thread
+Daemon thread doesnt have any precedence while execution

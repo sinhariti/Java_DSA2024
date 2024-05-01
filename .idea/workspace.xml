@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountDownLatchExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeometricClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/areacalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armstrongnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionvowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fib2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/issortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largestnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leapyr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/1_Multitasking.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/createthreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/thread_runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numreverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oddeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pyramidpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqrtroot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webcrawlers/crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webcrawlers/jsoup-1.17.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2d4WlbQYTnqbyF8HNLXZ07OIqxr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Accounting.executor": "Run",
+    "Application.CountDownLatchExercise.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Lists.executor": "Run",
+    "Application.StudentClass.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.Triangle1.executor": "Run",
+    "Application.Webcrawler.executor": "Run",
+    "Application.areacalc.executor": "Run",
+    "Application.armstrongnum.executor": "Run",
+    "Application.arrays1.executor": "Run",
+    "Application.crawler.executor": "Run",
+    "Application.createthreads.executor": "Run",
+    "Application.exceptionhandling.executor": "Run",
+    "Application.exceptionvowels.executor": "Run",
+    "Application.fac.executor": "Run",
+    "Application.fib.executor": "Run",
+    "Application.fib2.executor": "Run",
+    "Application.grade.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.issortedArray.executor": "Run",
+    "Application.largestnum.executor": "Run",
+    "Application.leap.executor": "Run",
+    "Application.nestedclass.executor": "Run",
+    "Application.node1.executor": "Run",
+    "Application.numreverse.executor": "Run",
+    "Application.oddeven.executor": "Run",
+    "Application.operations.executor": "Run",
+    "Application.pattern.executor": "Run",
+    "Application.programs.executor": "Run",
+    "Application.pyramidpattern.executor": "Run",
+    "Application.sqrtroot.executor": "Run",
+    "Application.strings.executor": "Run",
+    "Application.studentclass.executor": "Run",
+    "Application.superclass1.executor": "Run",
+    "Application.threads.executor": "Run",
+    "Application.vehicle.executor": "Run",
+    "Application.webcrawlersThreads.executor": "Run",
+    "JAR Application.jsoup-1.17.2.jar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/ritisinha/Documents/codes/IntellJava/java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/webcrawlers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsoup-1.17.2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/webcrawlers/jsoup-1.17.2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.jsoup-1.17.2.jar" />
+        <item itemvalue="Application.Triangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="" />
+      <created>1709267982918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709267982918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounting.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
