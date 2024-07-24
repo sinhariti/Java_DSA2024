@@ -12,14 +12,14 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class webcrawlersThreads {
-    private static final int max_d = 2;// Maximum depth for crawling
-    private static final int max_t = 4; // Maximum number of threads
+public class WebCrawler {
+    private static final int MAX_DEPTH = 2; // Maximum depth for crawling
+    private static final int MAX_THREADS = 4; // Maximum number of threads
 
     private final Set < String > visitedUrls = new HashSet < > ();
 
     public void crawl(String url, int depth) {
-        if (depth > max_d || visitedUrls.contains(url)) {
+        if (depth > MAX_DEPTH || visitedUrls.contains(url)) {
             return;
         }
 
@@ -27,10 +27,10 @@ public class webcrawlersThreads {
         System.out.println("Crawling: " + url);
 
         try {
-            Document doc = Jsoup.connect(url).get();
-            processPage(doc);
+            Document document = Jsoup.connect(url).get();
+            processPage(document);
 
-            Elements links = doc.select("a[href]");
+            Elements links = document.select("a[href]");
             for (Element link: links) {
                 String nextUrl = link.absUrl("href");
                 crawl(nextUrl, depth + 1);
@@ -40,13 +40,13 @@ public class webcrawlersThreads {
         }
     }
 
-    public void processPage(Document doc) {
+    public void processPage(Document document) {
         // Process the web page content as needed
-        System.out.println("Processing: " + doc.title());
+        System.out.println("Processing: " + document.title());
     }
 
-    public void startcrawl(String[] seedUrls) {
-        ExecutorService executor = Executors.newFixedThreadPool(max_t);
+    public void startCrawling(String[] seedUrls) {
+        ExecutorService executor = Executors.newFixedThreadPool(MAX_THREADS);
 
         for (String url: seedUrls) {
             executor.execute(() -> crawl(url, 0));
@@ -65,11 +65,12 @@ public class webcrawlersThreads {
 
     public static void main(String[] args) {
         // Add URLs here
-        String[] startURL = {
-                "https://takeuforward.com",
+        String[] seedUrls = {
+                "https://example.com",
+                "https://www.wikipedia.org"
         };
 
-        webcrawlersThreads webcrawl = new webcrawlersThreads();
-        webcrawl.startcrawl(startURL);
+        WebCrawler webCrawler = new WebCrawler();
+        webCrawler.startCrawling(seedUrls);
     }
 }

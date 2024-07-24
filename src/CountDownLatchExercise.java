@@ -31,7 +31,7 @@ public class CountDownLatchExercise {
 
                 // Perform work
 
-                System.out.println("Thread " + Thread.currentThread().getName() + " has finished its work.");
+                System.out.println(Thread.currentThread().getName() + " has finished its work.");
             } catch (InterruptedException e) {
                 e.printStackTrace();
             } finally {

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class crawler {
     public static void main(String[] args){
-        String url="https://www.notion.so/";
+        String url="https://takeuforward.com";
         crawl(1,url, new ArrayList<String>());
     }
     private static void crawl(int level,String url, ArrayList<String> visited){
@@ -18,7 +18,7 @@ public class crawler {
             if(doc!=null){
                 for(Element link :doc.select("a[href]")){
                     String next_link=link.absUrl("href");
-                    if(visited.contains(next_link)==false){
+                    if(!visited.contains(next_link)){
                         crawl(level++,next_link,visited);
                     }
                 }

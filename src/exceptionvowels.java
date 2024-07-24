@@ -24,6 +24,7 @@ public class exceptionvowels {
     public static void main(String[] args ){
         Scanner sc = new Scanner(System.in);
         try {
+            System.out.print("Enter a string :");
             String text = sc.nextLine();
             System.out.println("Original message :"+text);
             checkVowel(text);

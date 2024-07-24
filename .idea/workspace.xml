@@ -4,50 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountDownLatchExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometricClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/areacalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armstrongnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionhandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionvowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fib2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/issortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/largestnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leapyr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/1_Multitasking.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/createthreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/thread_runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pyramidpattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqrtroot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superclass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webcrawlers/crawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webcrawlers/jsoup-1.17.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" afterDir="false" />
+    <list default="true" id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="Java_Basics">
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/StrobogrammaticNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/bankAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/electrictybill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/fib01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/hcf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/hyphen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/lcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/leadersArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/manacher_algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/maxelearr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/maxequi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/primeSieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/max2num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/selectsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/stringmani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/weightedsubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc_connectivity/mysql-connector-j-8.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc_connectivity/mysqlconnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labprac/datastruc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webcrawlers/WebCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountDownLatchExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountDownLatchExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptionvowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptionvowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webcrawlers/crawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webcrawlers/crawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +45,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/java_cp/electrictybill.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -83,40 +74,60 @@
     "Application.CountDownLatchExercise.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Lists.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StrobogrammaticNum.executor": "Run",
     "Application.StudentClass.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.Triangle1.executor": "Run",
+    "Application.WebCrawler.executor": "Run",
     "Application.Webcrawler.executor": "Run",
     "Application.areacalc.executor": "Run",
     "Application.armstrongnum.executor": "Run",
     "Application.arrays1.executor": "Run",
+    "Application.bankAcc.executor": "Run",
     "Application.crawler.executor": "Run",
     "Application.createthreads.executor": "Run",
+    "Application.datastruc.executor": "Run",
+    "Application.electrictybill.executor": "Run",
     "Application.exceptionhandling.executor": "Run",
     "Application.exceptionvowels.executor": "Run",
     "Application.fac.executor": "Run",
     "Application.fib.executor": "Run",
+    "Application.fib01.executor": "Run",
     "Application.fib2.executor": "Run",
     "Application.grade.executor": "Run",
+    "Application.hcf.executor": "Run",
     "Application.hello.executor": "Run",
+    "Application.hyphen.executor": "Run",
     "Application.issortedArray.executor": "Run",
     "Application.largestnum.executor": "Run",
+    "Application.lcm.executor": "Run",
+    "Application.leadersArr.executor": "Run",
     "Application.leap.executor": "Run",
+    "Application.max2num.executor": "Run",
+    "Application.maxequi.executor": "Run",
+    "Application.mysqlconnect.executor": "Run",
     "Application.nestedclass.executor": "Run",
     "Application.node1.executor": "Run",
     "Application.numreverse.executor": "Run",
     "Application.oddeven.executor": "Run",
     "Application.operations.executor": "Run",
     "Application.pattern.executor": "Run",
+    "Application.primeSieve.executor": "Run",
     "Application.programs.executor": "Run",
     "Application.pyramidpattern.executor": "Run",
+    "Application.quicksort.executor": "Run",
+    "Application.selectsort.executor": "Run",
     "Application.sqrtroot.executor": "Run",
+    "Application.stringmani.executor": "Run",
     "Application.strings.executor": "Run",
     "Application.studentclass.executor": "Run",
     "Application.superclass1.executor": "Run",
     "Application.threads.executor": "Run",
     "Application.vehicle.executor": "Run",
     "Application.webcrawlersThreads.executor": "Run",
+    "Application.weightedsubstring.executor": "Run",
     "JAR Application.jsoup-1.17.2.jar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -126,11 +137,13 @@
     "onboarding.tips.debug.path": "/Users/ritisinha/Documents/codes/IntellJava/java/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jdbc_connectivity" />
       <recent name="$PROJECT_DIR$/src/webcrawlers" />
     </key>
   </component>
@@ -169,6 +182,15 @@
       <option name="presentableId" value="Default" />
       <updated>1709267982918</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java_Basics">
+      <option name="closed" value="true" />
+      <created>1714565272392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714565272392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +203,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java_Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java_Basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -195,6 +221,10 @@
           <line>98</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
