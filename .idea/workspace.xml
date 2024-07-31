@@ -5,36 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="Java_Basics">
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/StrobogrammaticNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/bankAcc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/electrictybill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/fib01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/hcf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/hyphen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/lcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/leadersArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/manacher_algo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/maxelearr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/maxequi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/primeSieve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/max2num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/sorting/selectsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/stringmani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/weightedsubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc_connectivity/mysql-connector-j-8.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc_connectivity/mysqlconnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labprac/datastruc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webcrawlers/WebCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/arrmani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/joesphus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/reversearr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/stringpermu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountDownLatchExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountDownLatchExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptionvowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptionvowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webcrawlers/crawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webcrawlers/crawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webcrawlers/webcrawlersThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_cp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_cp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_cp/hyphen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_cp/hyphen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +63,7 @@
     "Application.areacalc.executor": "Run",
     "Application.armstrongnum.executor": "Run",
     "Application.arrays1.executor": "Run",
+    "Application.arrmani.executor": "Run",
     "Application.bankAcc.executor": "Run",
     "Application.crawler.executor": "Run",
     "Application.createthreads.executor": "Run",
@@ -101,6 +80,7 @@
     "Application.hello.executor": "Run",
     "Application.hyphen.executor": "Run",
     "Application.issortedArray.executor": "Run",
+    "Application.joesphus.executor": "Run",
     "Application.largestnum.executor": "Run",
     "Application.lcm.executor": "Run",
     "Application.leadersArr.executor": "Run",
@@ -118,6 +98,7 @@
     "Application.programs.executor": "Run",
     "Application.pyramidpattern.executor": "Run",
     "Application.quicksort.executor": "Run",
+    "Application.reversearr.executor": "Run",
     "Application.selectsort.executor": "Run",
     "Application.sqrtroot.executor": "Run",
     "Application.stringmani.executor": "Run",
