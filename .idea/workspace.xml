@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0828ff9-4c19-4853-ae5b-cfabec7e3e47" name="Changes" comment="Java_Basics">
-      <change afterPath="$PROJECT_DIR$/src/java_cp/arrmani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/joesphus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/reversearr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_cp/stringpermu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/algorithms/swapnibbles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/try1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_cp/try2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_cp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_cp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_cp/hyphen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_cp/hyphen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_cp/arrmani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_cp/arrmani.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,10 @@
     "Application.strings.executor": "Run",
     "Application.studentclass.executor": "Run",
     "Application.superclass1.executor": "Run",
+    "Application.swapnibbles.executor": "Run",
     "Application.threads.executor": "Run",
+    "Application.try1.executor": "Run",
+    "Application.try2.executor": "Run",
     "Application.vehicle.executor": "Run",
     "Application.webcrawlersThreads.executor": "Run",
     "Application.weightedsubstring.executor": "Run",

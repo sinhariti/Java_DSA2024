@@ -26,6 +26,41 @@ public class arrmani {
        }
        return sum;
    }
+   static void arrsum(){
+       Scanner sc = new Scanner(System.in);
+
+       System.out.print("Enter number of rows for both matrix : ");
+       int m = sc.nextInt();
+       System.out.print("Enter number of column for both matrix: ");
+       int n = sc.nextInt();
+       int[][] arr1= new int[m][n];
+       int[][] arr2= new int[m][n];
+       int[][] arr3 = new int[m][n];
+       for(int i=0;i<m;i++){
+           for(int j=0;j<n;j++){
+               System.out.print("Enter element value for maxtrix1 index ["+i+", "+j+"] :");
+               arr1[i][j]= sc.nextInt();
+           }
+       }
+       for(int i=0;i<m;i++){
+           for(int j=0;j<n;j++){
+               System.out.print("Enter element value for maxtrix2 index ["+i+", "+j+"] :");
+               arr2[i][j]= sc.nextInt();
+           }
+       }
+
+       for(int i=0;i<m;i++){
+           for(int j=0;j<n;j++){
+               arr3[i][j]=arr1[i][j] + arr2[i][j];
+           }
+       }
+       for(int i=0;i<m;i++){
+           for(int j=0;j<n;j++){
+               System.out.print(arr3[i][j]+" ");
+           }
+           System.out.println();
+       }
+   }
     public static void main(String args[]){
 
 //        int[] arr={2,3,4,5,1};
@@ -50,19 +85,23 @@ public class arrmani {
 //        System.out.println("min :"+arr[minim]);
 
         //create 2d array
-        System.out.print("Enter number of rows: ");
-        int m = sc.nextInt();
-        System.out.print("Enter number of column: ");
-        int n = sc.nextInt();
-        int[][] arr1=new int[m][n];
-        arr1= arrc(m,n,arr1);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                System.out.print(arr1[i][j]+" ");
-            }
-            System.out.println();
-        }
-        System.out.println("sum: "+elesum(m,n,arr1));
+
+//        System.out.print("Enter number of rows: ");
+//        int m = sc.nextInt();
+//        System.out.print("Enter number of column: ");
+//        int n = sc.nextInt();
+//        int[][] arr1=new int[m][n];
+//        arr1= arrsum();
+//        for(int i=0;i<m;i++){
+//            for(int j=0;j<n;j++){
+//                System.out.print(arr1[i][j]+" ");
+//            }
+//            System.out.println();
+//        }
+//        System.out.println("sum: "+elesum(m,n,arr1));
+        arrsum();
+
+
 
     }
 }
